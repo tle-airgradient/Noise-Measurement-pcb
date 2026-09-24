@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "OPA344NA_3K") (type "EAGLE") (uri "/Users/tle/Documents/Addon_lib_KiCAD/op_amp/OPA344NA_3K.lbr") (options "") (descr ""))
+)
