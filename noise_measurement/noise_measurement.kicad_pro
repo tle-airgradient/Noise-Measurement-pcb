@@ -661,7 +661,7 @@
         "uuid": "61d79a38-78f4-4a7f-a29a-cc35910bd5d7"
       }
     ],
-    "used_designators": "SPH8878LR5H\\-1-2,MK1,C1-6,#PWR1-13,U1-3,IC1,R1-7",
+    "used_designators": "SPH8878LR5H\\-1-2,J1,MK1,C1-7,#PWR1-15,TP1-2,U1-3,IC1,R1-7",
     "variants": []
   },
   "sheets": [
