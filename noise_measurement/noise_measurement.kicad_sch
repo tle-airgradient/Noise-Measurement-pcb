@@ -2812,16 +2812,6 @@
 		)
 		(uuid "7d8b6fac-f4d1-4f70-b762-3aa4f683940e")
 	)
-	(label "SDA"
-		(at 182.88 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "80a606bd-9400-4730-a7d9-ea6e84678c3a")
-	)
 	(label "SBWTDIO"
 		(at 68.58 120.65 0)
 		(effects
@@ -2831,56 +2821,6 @@
 			(justify left bottom)
 		)
 		(uuid "9859f8db-5554-4966-bed8-f0afd645d3b6")
-	)
-	(label "SBTCK"
-		(at 113.03 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a5e195a4-0c33-4090-9320-a133aba0c9af")
-	)
-	(label "SCL"
-		(at 182.88 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "aafb016a-804a-452e-aa33-15737a97ccbd")
-	)
-	(label "GND"
-		(at 113.03 100.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ce9fff41-ec50-406a-886a-652d5a4bb51c")
-	)
-	(label "3.3V"
-		(at 113.03 96.52 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2bdff31-db63-489d-9bda-323a99fb97d8")
-	)
-	(label "SBWTDIO"
-		(at 113.03 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d856728b-f476-4fb9-925d-b397d0e3f9dc")
 	)
 	(label "SBTCK"
 		(at 68.58 118.11 0)
@@ -2925,7 +2865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "OUT(+)"
 			(at 82.55 38.6079 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5592,7 +5532,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "op-amp OUT"
 			(at 132.08 42.4179 0)
 			(show_name no)
 			(do_not_autoplace no)
