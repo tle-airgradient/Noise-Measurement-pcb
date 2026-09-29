@@ -2762,7 +2762,7 @@
 		)
 		(uuid "3a4dd887-bc81-42f2-8948-be41a810683e")
 	)
-	(label "SBTCK"
+	(label "SBWTCK"
 		(at 104.14 92.71 0)
 		(effects
 			(font
@@ -2812,7 +2812,7 @@
 		)
 		(uuid "7d8b6fac-f4d1-4f70-b762-3aa4f683940e")
 	)
-	(label "SBWTDIO"
+	(label "SBWTCK"
 		(at 68.58 120.65 0)
 		(effects
 			(font
@@ -2822,7 +2822,7 @@
 		)
 		(uuid "9859f8db-5554-4966-bed8-f0afd645d3b6")
 	)
-	(label "SBTCK"
+	(label "SBWTDIO"
 		(at 68.58 118.11 0)
 		(effects
 			(font
